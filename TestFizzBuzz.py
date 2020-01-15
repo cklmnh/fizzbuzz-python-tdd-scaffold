@@ -15,5 +15,6 @@ class Tfb(unittest.TestCase):
     def test_input_5(self):
         self.assertEqual(fizz_buzz(5), "Buzz")
 
+
 if __name__ == "main":
     unittest.main()
